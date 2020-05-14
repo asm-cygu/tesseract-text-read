@@ -1,5 +1,5 @@
 # tesseract-text-read
-https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac
+https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac</br>
 https://tesseract-ocr.github.io/tessdoc/ImproveQuality
 
 # Request
