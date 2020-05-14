@@ -1,6 +1,6 @@
 # tesseract-text-read
 https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code-c22ede074cac
-
+https://tesseract-ocr.github.io/tessdoc/ImproveQuality
 
 # Request
 pip install --proxy=http://proxy:8080 --upgrade -U pytesseract</br>
