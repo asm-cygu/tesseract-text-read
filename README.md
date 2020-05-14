@@ -3,8 +3,8 @@ https://towardsdatascience.com/read-text-from-image-with-one-line-of-python-code
 
 
 # Request
-pip install --proxy=http://proxy:8080 --upgrade -U pytesseract
-pip install --proxy=http://proxy:8080 --upgrade -U tesseract
+pip install --proxy=http://proxy:8080 --upgrade -U pytesseract</br>
+pip install --proxy=http://proxy:8080 --upgrade -U tesseract</br>
 yum install tesseract
 
 # Usage
